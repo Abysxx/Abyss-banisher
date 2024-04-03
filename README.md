@@ -1,1 +1,1 @@
-A collection of bookmarklets (Abyss Bansiher) 
+A collection of bookmarklets made by me (Abyss Bansiher) 
